@@ -1,6 +1,8 @@
 # 프랜차이즈 카페별 대표 음료 찾기
 2021-1 Web Python Term Project 👩‍💻
 
+<img src = "https://img.shields.io/badge/language-Python-9cf"> 
+
 
 ### 1) 프로젝트 목표 및 내용
 
